@@ -2,10 +2,10 @@
 
 ## Grupo e Integrantes
 João Victor de Souza Braz - RM566862
-Felipe Cuesta Puerta de Oliveira - RM:567703
-Vitor Costa de Godoi - RM:568448
-Vitor Santos Domingues - RM:568375
-Lucas Pompeu RM567010
+Felipe Cuesta Puerta de Oliveira - RM567703
+Vitor Costa de Godoi - RM568448
+Vitor Santos Domingues - RM568375
+Lucas Pompeu - RM567010
 Turma: 2TDSPR
 
 ## Descrição Resumida da Solução
