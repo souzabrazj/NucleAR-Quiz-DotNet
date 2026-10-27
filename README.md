@@ -4,7 +4,7 @@
 João Victor de Souza Braz - RM566862
 Felipe Cuesta Puerta de Oliveira - RM:567703
 Vitor Costa de Godoi - RM:568448
-Vitor Santos Domingues RM:568375
+Vitor Santos Domingues - RM:568375
 Lucas Pompeu RM567010
 Turma: 2TDSPR
 
